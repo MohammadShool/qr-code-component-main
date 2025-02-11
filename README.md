@@ -1,12 +1,12 @@
 # description
 this repo is a html & css challenge from [fontendmentor.io](http://frontendmentor.io/)
 
-#designs
+# designs
 <span>
-<img src="./design/desktop-design.png" width="70%" />
+<img src="./design/desktop-design.jpg" width="70%" />
 </span>
   <span>
-<img src="./design/mobile-design.png" width="25%" />
+<img src="./design/mobile-design.jpg" width="25%" />
 </span>
 
 # screenshots
