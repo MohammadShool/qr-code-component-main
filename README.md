@@ -2,7 +2,9 @@
 this repo is a html & css challenge from [fontendmentor.io](http://frontendmentor.io/)
 
 # screen shots
-desktop:
-![desktop screenshot](./screenshots/desktop.png)
-mobile:
-![mobile screenshot](./screenshots/mobile.png)
+<span>
+<img src="./screenshots/desktop.png" width="70%" />
+</span>
+  <span>
+<img src="./screenshots/mobile.png" width="25%" />
+</span>
