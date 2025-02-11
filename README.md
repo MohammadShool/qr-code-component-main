@@ -8,3 +8,6 @@ this repo is a html & css challenge from [fontendmentor.io](http://frontendmento
   <span>
 <img src="./screenshots/mobile.png" width="25%" />
 </span>
+
+# preview
+[https://mohammadshool.github.io/qr-code-component-main/](https://mohammadshool.github.io/qr-code-component-main/)
