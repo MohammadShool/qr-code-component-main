@@ -10,4 +10,4 @@ this repo is a html & css challenge from [fontendmentor.io](http://frontendmento
 </span>
 
 # preview
-[https://mohammadshool.github.io/qr-code-component-main/](https://mohammadshool.github.io/qr-code-component-main/)
+<a href="https://mohammadshool.github.io/qr-code-component-main/" target="_blank">https://mohammadshool.github.io/qr-code-component-main/</a>
